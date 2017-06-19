@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503769686190",
+    "project_id": "normalgmail-171012"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503769686190:android:1dfa48db77df4415",
+        "android_client_info": {
+          "package_name": "com.example.psantosh.normalgmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503769686190-vnni30r9h8r43njrcjifei27kj7lt8cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psantosh.normalgmail",
+            "certificate_hash": "8fb8d51d15b36622b20b3b4fad294596392e7515"
+          }
+        },
+        {
+          "client_id": "503769686190-lu2hd7ipq7fdq7143483cl74u4385j7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfuoc20PtRNPmm8EKfzn7TUB0wzdzGDk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
